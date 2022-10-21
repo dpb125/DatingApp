@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/dpb125/DatingApp/issues"
   },
-  "homepage": "https://github.com/dpb125/DatingApp#readme"
+  "homepage": "https://github.com/dpb125/DatingApp#readme",
+  "dependencies": {
+    "@angular-devkit/build-angular": "^14.2.6"
+  }
 }
