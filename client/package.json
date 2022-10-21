@@ -22,6 +22,7 @@
   "homepage": "https://github.com/dpb125/DatingApp#readme",
   "dependencies": {
     "@angular-devkit/build-angular": "^14.2.6",
-    "@angular/core": "^13.3.11"
+    "@angular/core": "^13.3.11",
+    "@angular/cli": "^13.3.9"
   }
 }
