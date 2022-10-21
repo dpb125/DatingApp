@@ -1,0 +1,23 @@
+{
+  "name": "npm-package",
+  "version": "1.0.0",
+  "description": "client package",
+  "main": "karma.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpb125/DatingApp.git"
+  },
+  "keywords": [
+    "client",
+    "package"
+  ],
+  "author": "daniel batchman daniel.p.batchman@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpb125/DatingApp/issues"
+  },
+  "homepage": "https://github.com/dpb125/DatingApp#readme"
+}
